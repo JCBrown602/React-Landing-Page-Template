@@ -1,5 +1,5 @@
 # React JS Landing Page Template
-
+forked from <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">issaafalkattan/React-Landing-Page-Template</a>
 
 ### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
 
